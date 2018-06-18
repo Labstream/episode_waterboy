@@ -1,5 +1,5 @@
 # episode_waterboy
-Design and code-files for the waterboy episode
+Design and code-files for the waterboy episode: https://www.youtube.com/edit?o=U&video_id=QLDWDyHOXy0
 
 # Finished project
 ![Finished project](images/DSC_0950.JPG)
